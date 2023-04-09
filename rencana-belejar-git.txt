@@ -1,0 +1,3 @@
+Akan Belajar git dan github
+mampu push dengan git
+mampu pulldengan git
